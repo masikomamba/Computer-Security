@@ -33,16 +33,6 @@ The plaintext and encryption key are hardcoded in the `main` function. To run th
 python Lab_1.py
 ```
 
-#### Output
-
-The script will print the resulting ciphertext to the console. For the hardcoded values `"LAUNCHTHEATTACKATONEPM"` and `4123`, the output is:
-
-```
-PBWQHITHEDWFFGOMFXRIEP
-```
-
------
-
 ### 2\. S-Box Substitution (`S_box_Substitution.py`)
 
 #### Description
@@ -72,7 +62,6 @@ python S_box_Substitution.py
 
 The script will print the final substituted binary string to the console.
 
------
 
 ### 3\. RSA Public-Key Cryptosystem (`RSA_Cypher_Implementation.py`)
 
