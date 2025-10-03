@@ -1,9 +1,5 @@
 # Computer-Security
 
-Of course. Here is a README file that describes the three Python scripts you provided.
-
------
-
 # Cryptography Algorithm Implementations
 
 This repository contains Python scripts that implement several cryptographic concepts, including a custom substitution cipher, an S-Box substitution from a block cipher, and the RSA public-key cryptosystem.
